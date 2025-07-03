@@ -25,9 +25,9 @@ title: Always Here: a Queer+Trans Global Medieval Sourcebook (prototype)
 tagline: making the real wealth of LGBTQIA+ primary sources radically accessible to new communities
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "_Always Here_ is brings together and organizes LGBTQ+ primary sources, created between approximately 250 CE and 1650 CE. In doing this, we hope to to transform the teaching of medieval gender and sexuality; radically expand the existing queer and trans medieval canon; and inspire scholarly, artistic, and activist engagements with 1000+ years of often-overlooked human history."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: 
 
 ##########
 # COLLECTION SETTINGS
@@ -37,7 +37,7 @@ author: CollectionBuilder
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRX4eH1QvwhT0l5LAyiOTjMAeW4klLWsaash1_Br5BLlNn8Ao1sGzBnkXI9U43GCK_Og4UKUyA_Jug0/pub?output=csv
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vT0KkKdvd6vuNPXn-MDBuLaCLRt38hempnbWE1xQLHxmu1zIPwyQTrh5jymfHawus6dUCzaFnKXh3zp/pub?output=csv
 
 ##########
 # Site/Organization Branding 
